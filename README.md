@@ -4,6 +4,8 @@ The dataset used in this project was obtained from [Kaggle.com](https://www.kagg
 
 ### Languages Used:
 - Python
+
+### Databases Used:
 - MySQL
 
 ### Packages Used:

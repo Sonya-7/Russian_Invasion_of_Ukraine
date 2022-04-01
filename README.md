@@ -12,4 +12,7 @@ This repository contains an assessment and visualization of the current state of
     - ipython-sql
 
 ### Questions Answered:
-    - Where is the war being fought?
+- Where is the war happening?
+- How many Prisoners of War are there?
+- What is the total value of equipment lost?
+- What is the correlation between Prisoners of War anf equipment loss?

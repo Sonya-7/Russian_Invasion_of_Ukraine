@@ -2,8 +2,8 @@
 This repository contains an assessment and visualization of the current state of the Russian invasion of Ukrain.
 
 ### Languages Used:
-    - Python
-    - MySQL
+- Python
+- MySQL
 
 ### Packages Used:
     - ibm_db==3.1.0 

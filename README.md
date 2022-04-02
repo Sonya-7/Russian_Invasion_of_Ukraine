@@ -9,15 +9,15 @@ The dataset used in this project was obtained from [Kaggle.com](https://www.kagg
 - MySQL
 
 ### Packages Used:
-    - ibm_db==3.1.0 
-    - ibm_db_sa==0.3.3 
-    - sqlalchemy==1.3.24 
-    - ipython-sql
+- ibm_db==3.1.0 
+- - ibm_db_sa==0.3.3 
+- sqlalchemy==1.3.24 
+- ipython-sql
 
-    - pandas
-    - IPython.core.display
-    - PIL
-    - urllib.request
+- pandas
+- IPython.core.display
+- PIL
+- urllib.request
 
 ### Questions Answered:
 - Where is the war happening?

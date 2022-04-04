@@ -7,10 +7,11 @@ The dataset used in this project was obtained from [Kaggle.com](https://www.kagg
 
 ### Packages Used:
 
-- pandas
-- IPython.core.display
-- PIL
-- urllib.request
+- Pandas
+- Display
+- Image
+- Request
+- Plotly
 
 ### Questions Answered:
 - Where is the war happening?

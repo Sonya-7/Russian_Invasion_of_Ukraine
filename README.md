@@ -5,14 +5,7 @@ The dataset used in this project was obtained from [Kaggle.com](https://www.kagg
 ### Languages Used:
 - Python
 
-### Databases Used:
-- MySQL
-
 ### Packages Used:
-- ibm_db==3.1.0 
-- ibm_db_sa==0.3.3 
-- sqlalchemy==1.3.24 
-- ipython-sql
 
 - pandas
 - IPython.core.display

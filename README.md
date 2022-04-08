@@ -1,4 +1,4 @@
-# Russian_Invasion_of_Ukrain
+# Russian_Invasion_of_Ukraine
 This repository contains an assessment and visualization of the current lost equipment count in the Russian invasion of Ukrain.
 The dataset used in this project was obtained from [Kaggle.com](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war?datasetId=1967621&sortBy=voteCount) and contains details pertaining to the first 35 days of the war as at 03/31/2022. A csv copy of the dataset is also in this repository.
 

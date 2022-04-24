@@ -11,10 +11,10 @@ The dataset used in this project was obtained from [Kaggle.com](https://www.kagg
 ### Packages Used:
 - Pandas
 - Numpy
+- Folium
 - Matplotlib
+- Wordcloud
 - Math
-- Pillow
-- IPython
 
 ### Questions Answered:
 - What country is being invaded??

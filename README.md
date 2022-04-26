@@ -17,9 +17,9 @@ The dataset used in this project was obtained from [Kaggle.com](https://www.kagg
 - Math
 
 ### Questions Answered:
-- What country is being invaded??
+- What country is being invaded?
 - How many Prisoners of War captured to date?
 - What is the total count of equipment loss?
 - What is the correlation between Prisoners of War and equipment loss?
-- What inferences can be made from the data and correlations?
+- What inferences about the invasion can be made from the data and correlations within the data?
 

@@ -24,6 +24,8 @@ The dataset used in this project was obtained from Kaggle and can be accessed [h
 - What is the correlation between Prisoners of War and equipment loss?
 - What inferences about the invasion can be made from the data and correlations within the data?
 
-## Continue to pray for the Ukrainians and their families through this difficult time. Thank you.
-![UkraineUkraineFlagGIF](https://user-images.githubusercontent.com/92489108/170802793-a19f6345-c6a3-4495-ab47-d63c935d22d8.gif)
+<p align="center">
+Continue to pray for the Ukrainians and their families through this difficult time. Thank you.
+<img src="https://user-images.githubusercontent.com/92489108/170802793-a19f6345-c6a3-4495-ab47-d63c935d22d8.gif" width=50% height=50%>
+</p>
 

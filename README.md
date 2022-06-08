@@ -28,6 +28,12 @@ The dataset used in this project was obtained from Kaggle and can be accessed [h
 
 <p align="center">
 “It takes hundreds of years of hard work to build a civilization, and yet with the press of a button we can destroy it all in a day. Let us not press the button my friend. In fact, if we must destroy something let us destroy the very button of destruction, both from outside and inside.”
-Abhijit Naskar, Either Reformist or Terrorist: If You Are Terror I Am Your Grandfather
-<img src="https://user-images.githubusercontent.com/92489108/170802793-a19f6345-c6a3-4495-ab47-d63c935d22d8.gif" width=50% height=50%>
 </p>
+<p align="center">
+-Abhijit Naskar, Either Reformist or Terrorist: If You Are Terror I Am Your Grandfather
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/92489108/170802793-a19f6345-c6a3-4495-ab47-d63c935d22d8.gif" width=25% height=25%>
+</p>
+

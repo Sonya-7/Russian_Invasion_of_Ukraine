@@ -25,7 +25,7 @@ The dataset used in this project was obtained from Kaggle and can be accessed [h
 - What inferences about the invasion can be made from the data and correlations within the data?
 
 <p align="center">
-Continue to pray for the Ukrainians and their families through this difficult time. Thank you.
+“It takes hundreds of years of hard work to build a civilization, and yet with the press of a button we can destroy it all in a day. Let us not press the button my friend. In fact, if we must destroy something let us destroy the very button of destruction, both from outside and inside.”
+     Abhijit Naskar, Either Reformist or Terrorist: If You Are Terror I Am Your Grandfather
 <img src="https://user-images.githubusercontent.com/92489108/170802793-a19f6345-c6a3-4495-ab47-d63c935d22d8.gif" width=50% height=50%>
 </p>
-

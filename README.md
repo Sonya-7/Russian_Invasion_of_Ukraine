@@ -12,10 +12,11 @@ The dataset used in this project was obtained from Kaggle and can be accessed [h
 ### Packages Used:
 - Pandas
 - Numpy
-- Folium
 - Matplotlib
+- Seaborn
+- Plotly
+- Folium
 - Wordcloud
-- Math
 
 ### Questions Answered:
 - Locate the country being invaded?
@@ -23,6 +24,7 @@ The dataset used in this project was obtained from Kaggle and can be accessed [h
 - What is the total count of equipment lost in the war?
 - What is the correlation between Prisoners of War and equipment loss?
 - What inferences about the invasion can be made from the data and correlations within the data?
+
 
 <p align="center">
 “It takes hundreds of years of hard work to build a civilization, and yet with the press of a button we can destroy it all in a day. Let us not press the button my friend. In fact, if we must destroy something let us destroy the very button of destruction, both from outside and inside.”

@@ -1,7 +1,7 @@
 ## Russian Invasion of Ukraine
 This repository contains an assessment of the equipment and personnel loss in the Russian invasion of Ukraine. Serveral visualization tools including barcharts, maps, area charts, and box plots are used to show trends and patterns observed in the data. 
 
-The dataset used in this project was obtained from Kaggle and can be accessed [here](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war?datasetId=1967621&sortBy=voteCount). It contains details pertaining to the current equipment and personnel loss as the invasion continues. The dataset is updated daily is updated daily and so is this assessment. For the most recent version of this assessment, click [here](https://www.kaggle.com/code/sonyalawrence/russian-invasion-of-ukraine).
+The dataset used in this project was obtained from Kaggle and can be accessed [here](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war?datasetId=1967621&sortBy=voteCount). It contains details pertaining to equipment and personnel loss as the invasion continues. The dataset is updated daily and so is this assessment. For the most recent version of this assessment, click [here](https://www.kaggle.com/code/sonyalawrence/russian-invasion-of-ukraine).
 
 ### Language Used:
 - Python

@@ -34,6 +34,6 @@ The dataset used in this project was obtained from Kaggle and can be accessed [h
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/92489108/170802793-a19f6345-c6a3-4495-ab47-d63c935d22d8.gif" width=25% height=25%>
+<img src="https://user-images.githubusercontent.com/92489108/170802793-a19f6345-c6a3-4495-ab47-d63c935d22d8.gif" width=50% height=50%>
 </p>
 

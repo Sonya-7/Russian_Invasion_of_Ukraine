@@ -19,7 +19,7 @@ The dataset used in this project was obtained from Kaggle and can be accessed [h
 - Wordcloud
 
 ### Questions Answered:
-- Locate the country being invaded?
+- On an interactive map, locate the country being invaded?
 - How many Prisoners of War have been captured to date?
 - What is the total count of equipment lost in the war?
 - What is the correlation between Prisoners of War and equipment loss?

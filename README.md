@@ -1,7 +1,7 @@
 ## Russian Invasion of Ukraine
-This repository contains an assessment of the equipment and personnel loss in the Russian invasion of Ukraine. Serveral visualization tools including barcharts, maps, area charts, and box plots are used to show trends and patterns observed in the data. 
+This repository contains an assessment of the equipment and personnel loss in the Russian invasion of Ukraine. Several visualization tools including bar charts, geospatial maps, area charts, and box plots are used to show trends and patterns observed in the data. 
 
-On Frbruary 24th,2022 Russia launched a large-scale invasion of Ukraine. Here is a timeline of Ukraine's fraught relationship with Moscow since it won independence in 1991 and the events that led to the current conflict. [Source](https://www.reuters.com/world/europe/events-leading-up-russias-invasion-ukraine-2022-02-28/)
+On February 24th,2022 Russia launched a large-scale invasion of Ukraine. Here is a timeline of Ukraine's fraught relationship with Moscow since it won independence in 1991 and the events that led to the current conflict. [Source](https://www.reuters.com/world/europe/events-leading-up-russias-invasion-ukraine-2022-02-28/)
 
 - 1991: Shortly after the fall of the Soviet Union, Ukraine declares independence from Moscow.
 
@@ -21,7 +21,7 @@ On Frbruary 24th,2022 Russia launched a large-scale invasion of Ukraine. Here is
 
 - 2019: Former comic actor Volodymyr Zelenskiy is elected president.
 
-- Jan. 2021: Zelenskiy appeals to U.S. president Joe Biden to let Ukraine join NATO. In February, his government freezes the assets of opposition leader Viktor Medvedchuk, the Kremlin's most prominent ally in Ukraine.
+- Jan. 2021: Zelenskiy appeals to U.S. President Joe Biden to let Ukraine join NATO. In February, his government freezes the assets of opposition leader Viktor Medvedchuk, the Kremlin's most prominent ally in Ukraine.
 
 - Spring 2021: Russia begins massing troops near Ukraine's borders in what it says are training exercises.
 
@@ -63,15 +63,15 @@ The dataset used in this project was obtained from Kaggle and can be accessed [h
 - Wordcloud
 
 ### Questions Answered:
-- On an interactive map, locate the country being invaded?
+- On an interactive map, locate the country being invaded.
 - How many Prisoners of War have been captured to date?
 - What is the total count of equipment lost in the war?
 - What is the correlation between Prisoners of War and equipment loss?
-- What inferences about the invasion can be made from the data and correlations within the data?
+- What inferences can be made from the data and correlations within the data?
 
 
 <p align="center">
-“It takes hundreds of years of hard work to build a civilization, and yet with the press of a button we can destroy it all in a day. Let us not press the button my friend. In fact, if we must destroy something let us destroy the very button of destruction, both from outside and inside.”
+“It takes hundreds of years of hard work to build a civilization, and yet with the press of a button, we can destroy it all in a day. Let us not press the button, my friend. In fact, if we must destroy something let us destroy the very button of destruction, both from outside and inside.”
 </p>
 <p align="center">
 -Abhijit Naskar, Either Reformist or Terrorist: If You Are Terror I Am Your Grandfather

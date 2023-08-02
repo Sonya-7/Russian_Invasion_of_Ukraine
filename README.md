@@ -45,9 +45,9 @@ On February 24th,2022 Russia launched a large-scale invasion of Ukraine. Here is
 
 - Feb. 26: Western allies announce new sanctions, including restrictions on Russia's central bank and expelling key banks off the main global payments system.
 
-The dataset used in this project was obtained from Kaggle and can be accessed [here](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war?datasetId=1967621&sortBy=voteCount). It contains details pertaining to equipment loss and death toll as the invasion continues. The dataset is updated daily and so is this assessment. [Click here](https://ukraine-russia-war.streamlit.app/) to view an interactive dashboard tracking the changes in the dataset. For the most recent version of this assessment, click [here](https://www.kaggle.com/code/sonyalawrence/russian-invasion-of-ukraine).
+The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war?datasetId=1967621&sortBy=voteCount). It contains details pertaining to equipment loss and death toll as the invasion continues. The dataset is updated daily and so is this assessment. For an interactive dashboard tracking the changes in the dataset, [click here](https://ukraine-russia-war.streamlit.app/). For the most recent version of this assessment, [click here](https://www.kaggle.com/code/sonyalawrence/russian-invasion-of-ukraine).
 
-### Language Used:
+### Programming Language Used:
 - Python
 
 ### File Type:
